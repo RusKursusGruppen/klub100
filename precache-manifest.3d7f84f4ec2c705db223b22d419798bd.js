@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "663070a319897b47deb86e9eb93d731b",
+    "revision": "07b8407e260440a74f4e33f48f38f933",
     "url": "/klub100/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/klub100/static/js/2.aab15e01.chunk.js.LICENSE"
   },
   {
-    "revision": "df551bd21116a72da85e",
-    "url": "/klub100/static/js/main.3df53cb1.chunk.js"
+    "revision": "99c4d0b42d18def0136b",
+    "url": "/klub100/static/js/main.2153bffb.chunk.js"
   },
   {
     "revision": "a288434b0e04d0904bed",
