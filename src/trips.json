@@ -1,47 +1,38 @@
 [
   {
-    "logo": "https://www.designevo.com/res/templates/thumb_small/brown-circle-and-chocolate-coffee.png",
+    "link": "https://soundcloud.com/christoffer-karlborg-1/di-order-of-di-rus-klub-100/s-w0gmE",
+    "logo": "https://i1.sndcdn.com/artworks-000588474251-aqruze-t500x500.jpg",
+    "year": 2019,
+    "name": "Di Order of Di Rus"
+  },
+  {
+    "link": "https://soundcloud.com/carl-astrup/jedierneklub100-2019",
+    "logo": "https://i1.sndcdn.com/artworks-000587064392-itv8it-t500x500.jpg",
+    "year": 2019,
+    "name": "JeDIerne"
+  },
+  {
+    "link": "https://soundcloud.com/mikkel-sorensen-547837501/rkg-klub-elrond",
+    "logo": "https://i1.sndcdn.com/artworks-000399737082-u8rg3o-t500x500.jpg",
     "year": 2018,
-    "name": "Di lidderlige"
+    "name": "Klub Elrond"
   },
   {
-    "logo": "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
+    "link": "https://soundcloud.com/mads_on/klub100-reality",
+    "logo": "https://i1.sndcdn.com/artworks-000241480530-cx806n-t500x500.jpg",
     "year": 2017,
-    "name": "Gangstars"
+    "name": "Klub100 Reality"
   },
   {
-    "logo": "https://www.designevo.com/res/templates/thumb_small/brown-circle-and-chocolate-coffee.png",
+    "link": "https://soundcloud.com/peter-thomsen-607664607/klub100gangsters2017",
+    "logo": "https://i1.sndcdn.com/avatars-000330789974-xt7so8-t500x500.jpg",
+    "year": 2017,
+    "name": "Di gangstars"
+  },
+  {
+    "link": "https://soundcloud.com/user-347110089/pokemon100",
+    "logo": "https://i1.sndcdn.com/artworks-000399731298-8yja5n-t500x500.jpg",
     "year": 2018,
-    "name": "Di lidderlige"
-  },
-  {
-    "logo": "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
-    "year": 2017,
-    "name": "Gangstars"
-  },
-  {
-    "logo": "https://www.designevo.com/res/templates/thumb_small/brown-circle-and-chocolate-coffee.png",
-    "year": 2018,
-    "name": "Di lidderlige"
-  },
-  {
-    "logo": "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
-    "year": 2017,
-    "name": "Gangstars"
-  },
-  {
-    "logo": "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
-    "year": 2017,
-    "name": "Gangstars"
-  },
-  {
-    "logo": "https://www.designevo.com/res/templates/thumb_small/brown-circle-and-chocolate-coffee.png",
-    "year": 2018,
-    "name": "Di lidderlige"
-  },
-  {
-    "logo": "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
-    "year": 2017,
-    "name": "Gangstars"
+    "name": "Pokemon"
   }
 ]
